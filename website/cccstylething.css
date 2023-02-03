@@ -1,0 +1,28 @@
+table, th, td {
+  border:1px solid black;
+}
+div {
+  width: 950px;
+  border: 15px outset black;
+  padding: 30px;
+  margin: 20px;
+}
+.comment{
+  background-color:#58ACFA;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+  right: 150px;
+  position: absolute;
+}
+	
+p::first-letter {
+        font-size: 160%;
+        color: green;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+        margin-top: -15px;
+}
+
+body {
+  background-color: #C0C0C0;
+      }
